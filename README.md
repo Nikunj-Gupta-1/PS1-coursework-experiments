@@ -75,6 +75,6 @@ The code resolves dataset paths dynamically relative to its location, so update 
 ---
 
 ## See Also
-- [`lts-monolithic-ddos-detection`](https://github.com/nikunjgupta) — monolithic single-machine DDoS detection system
-- [`lts-distributed-ddos-detection`](https://github.com/nikunjgupta) — distributed multi-device pipeline
-- [`healthcare-prediction`](https://github.com/nikunjgupta) — separate Streamlit healthcare ML dashboard
+- [`lts-monolithic-ddos-detection`](https://github.com/nikunj-gupta-1) — monolithic single-machine DDoS detection system
+- [`lts-distributed-ddos-detection`](https://github.com/nikunj-gupta-1) — distributed multi-device pipeline
+- [`healthcare-prediction`](https://github.com/nikunj-gupta-1) — separate Streamlit healthcare ML dashboard
