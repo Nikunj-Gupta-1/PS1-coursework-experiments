@@ -1,4 +1,4 @@
-# lts-coursework-experiments
+# PS1-coursework-experiments
 
 Early coursework assignments and network packet analysis experiments built during **Practice School I (PS-1)** at BITS Pilani.
 
@@ -11,11 +11,11 @@ This is the first repository in the LTS project series. It contains the initial 
 This repo represents the **foundation phase**:
 
 ```
-lts-coursework-experiments  ← you are here
+PS1-coursework-experiments  ← you are here
         ↓
-lts-monolithic-ddos-detection   (single-machine DDoS sniffer + ML inference)
+PS1-monolithic-ddos-detection   (single-machine DDoS sniffer + ML inference)
         ↓
-lts-distributed-ddos-detection  (distributed Kafka-based detection pipeline)
+PS1-distributed-ddos-detection  (distributed Kafka-based detection pipeline)
 
 healthcare-prediction           (separate parallel project — Streamlit ML dashboard)
 ```
